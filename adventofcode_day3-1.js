@@ -1,5 +1,5 @@
 var binaryInput = ` 
-input list in commentary
+// input list in commentary from first upload
 `.split('\n').filter(x => x);
 
 console.log(binaryInput);
@@ -56,7 +56,7 @@ if (one > zero){
   gammaFirst = 0;
 };
 
-// setting first number for the gamma rate
+// setting first number for the epsilon rate
 if (one < zero){
   epsilonFirst = 1;
 } else {
@@ -84,7 +84,7 @@ if (one > zero){
   gammaSecond = 0;
 };
 
-// setting second number for the gamma rate
+// setting second number for the epsilon rate
 if (one < zero){
   epsilonSecond = 1;
 } else {
@@ -112,7 +112,7 @@ if (one > zero){
   gammaThird = 0;
 };
 
-// setting third number for the gamma rate
+// setting third number for the epsilon rate
 if (one < zero){
   epsilonThird = 1;
 } else {
@@ -140,7 +140,7 @@ if (one > zero){
   gammaFourth = 0;
 };
 
-// setting fourth number for the gamma rate
+// setting fourth number for the epsilon rate
 if (one < zero){
   epsilonFourth = 1;
 } else {
@@ -168,7 +168,7 @@ if (one > zero){
   gammaFifth = 0;
 };
 
-// setting fifth number for the gamma rate
+// setting fifth number for the epsilon rate
 if (one < zero){
   epsilonFifth = 1;
 } else {
@@ -196,7 +196,7 @@ if (one > zero){
   gammaSixth = 0;
 };
 
-// setting sixth number for the gamma rate
+// setting sixth number for the epsilon rate
 if (one < zero){
   epsilonSixth = 1;
 } else {
@@ -224,7 +224,7 @@ if (one > zero){
   gammaSeventh = 0;
 };
 
-// setting seventh number for the gamma rate
+// setting seventh number for the epsilon rate
 if (one < zero){
   epsilonSeventh = 1;
 } else {
@@ -252,7 +252,7 @@ if (one > zero){
   gammaEighth = 0;
 };
 
-// setting eighth number for the gamma rate
+// setting eighth number for the epsilon rate
 if (one < zero){
   epsilonEighth = 1;
 } else {
@@ -280,7 +280,7 @@ if (one > zero){
   gammaNinth = 0;
 };
 
-// setting ninth number for the gamma rate
+// setting ninth number for the epsilon rate
 if (one < zero){
   epsilonNinth = 1;
 } else {
@@ -308,7 +308,7 @@ if (one > zero){
   gammaTenth = 0;
 };
 
-// setting tenth number for the gamma rate
+// setting tenth number for the epsilon rate
 if (one < zero){
   epsilonTenth = 1;
 } else {
@@ -336,7 +336,7 @@ if (one > zero){
   gammaEleventh = 0;
 };
 
-// setting eleventh number for the gamma rate
+// setting eleventh number for the epsilon rate
 if (one < zero){
   epsilonEleventh = 1;
 } else {
@@ -364,7 +364,7 @@ if (one > zero){
   gammaTwelfth = 0;
 };
 
-// setting twelfth number for the gamma rate
+// setting twelfth number for the epsilon rate
 if (one < zero){
   epsilonTwelfth = 1;
 } else {
