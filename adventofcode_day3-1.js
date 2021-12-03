@@ -15,7 +15,7 @@ var epsilonValue = Array(12).fill(0);
 for(var melk = 0; melk < gammaValue.length; ++melk){
     // checking the numbers one by one
     for(var lööps = 0; lööps < binaryInput.length; ++lööps) {
-      var binaryCheck = binaryInput[lööps].toString().substr(melk,1);
+      var binaryCheck = binaryInput[lööps].substr(melk,1);
       if (binaryCheck === "1"){
         ++one;
       } else {
